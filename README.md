@@ -1,4 +1,4 @@
-# Paguroidea-shell
+# Paguroidea-shell 🐚
 
 This repository contains a collection of bash scripts that I use for various tasks.
 
